@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+
+}
+/* font-family: 'Jost', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'Raleway', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@1,400;1,500&family=Lora:wght@600;700&family=Raleway:wght@300;400&display=swap');

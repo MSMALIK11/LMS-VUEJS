@@ -1,0 +1,45 @@
+:root{
+    --primary:#4ade80;
+    --primary-alt:#22c55e;
+    --grey:#64748b;
+    --dark:#1e293b;
+    --sidebar-width:300px;
+    --light:#f1f5f9
+}
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wraper{
+    padding: 0 100px;
+   margin-top: 20px;
+}
+.admin-wraper
+{
+    padding: 30px 40px;
+}
+.button-primary{
+    background-color: #2493df;
+    color: #fff;
+    border: none;
+    outline: none;
+    padding: 7px 18px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn {
+    color:#000;
+    border: none;
+    outline: none;
+    padding: 7px 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #fff;
+
+
+}
